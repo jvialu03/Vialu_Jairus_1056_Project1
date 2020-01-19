@@ -7,8 +7,7 @@ This is a project demonstrating the ability to setup the required folders for a 
 3 wireframes are also included in the assets folder for a website of their choice.
 
 ### Getting Started 
-This is a basic HTML/ CSS/ JavaScript build
-Clone this to the location of your choice
+This is a basic HTML/ CSS/ JavaScript build. Clone this to the location of your choice
 
 ### Prerequisites
 Git, Adobe, and a text editor
