@@ -1,4 +1,4 @@
-# Project 1:CSS Reset, Linking JS, Wireframes, GitHub
+# Project 1: CSS Reset, Linking JS, Wireframes, GitHub
 
 ## SETTING UP FOLDERS AND FILES
 
